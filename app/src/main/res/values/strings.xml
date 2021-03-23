@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Exercício</string>
+
+    <string name="textNome">Nome:</string>
+    <string name="hintNome">Digite o nome</string>
+    <string name="textCPF">CPF:</string>
+    <string name="hintCPF">Digite o CPF</string>
+    <string name="textEmail">E-mail:</string>
+    <string name="hintEmail">Digite o E-mail</string>
+    <string name="textTelefone">Telefone:</string>
+    <string name="hintTelefone">Digite o Telefone</string>
+
+    <string name="textEnviar">ENVIAR</string>
+    <string name="textCadastrar">CADASTRAR CPF</string>
+    <string name="textInformacoes">...</string>
+
+    <string name="hintConsulta">Digite o cpf para busca</string>
+    <string name="textConsultar">CONSULTAR</string>
+    <string name="textVoltar">Voltar ao cadastro</string>
+
+</resources>
